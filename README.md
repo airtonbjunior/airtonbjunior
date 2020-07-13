@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: airtonbjunior@gmail.com
 - 🌱 I’m currently learning: DS/ML, Bio inspired Algorithms, NLP, Tranformers, Deep Learning
-- 🤔 I’m looking for help with BERT :P
+- 🤔 I’m looking for help with: BERT :P
 
 <!--
 **airtonbjunior/airtonbjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
