@@ -1,7 +1,7 @@
 ### Hello, world! 👋
 
 - 📫 How to reach me: airtonbjunior@gmail.com
-- 🌱 I’m currently learning: DS/ML, Bio inspired Algorithms, NLP, Tranformers, Deep Learning
+- 🌱 I’m currently learning: Bio inspired Algorithms, NLP, Tranformers, Deep Learning
 - 🤔 I’m looking for help with: BERT :P
 
 <!--
